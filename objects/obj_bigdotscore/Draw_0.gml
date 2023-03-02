@@ -1,0 +1,1 @@
+draw_text(100, 270, " = 10 pontos");
